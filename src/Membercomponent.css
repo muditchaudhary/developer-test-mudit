@@ -1,0 +1,191 @@
+.box{
+
+    background-color: #ffffff;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.25);
+    margin-right: 5px;
+    float: left;
+}
+
+#selectPlan{
+    position: relative;
+    top:57px;
+    width:78%;
+    height:360px;
+}
+
+h1{
+    position: absolute;
+    left:18px;
+    top:15px;
+    font-family: Roboto;
+    font-size: 16px;
+    color: #303030;
+    font-weight: 700;
+    text-decoration: none solid rgb(48, 48, 48);
+}
+
+hr{
+    position: absolute;
+    top:40px;
+    border-color: #bababa;
+    border-width: 0.5px;
+    width: 100%;
+}
+
+h2{
+    font-family: Roboto;
+    font-size: 16px;
+    color: #303030;
+    font-weight: 700;
+    text-decoration: none solid rgb(48, 48, 48);
+}
+
+.Select{
+    position: absolute;
+    top:60px;
+    left:29px;
+}
+
+.text{
+    font-family: Roboto;
+    font-size: 14px;
+    color: #8c8c8c;
+    text-decoration: none solid rgb(140, 140, 140);
+    line-height: 18px;
+}
+
+#one{
+    position: absolute;
+    left:29px;
+    top:77px;
+}
+
+.plans{
+    position: absolute;
+    left:29px;
+    top:116px;
+}
+
+.planButton{
+    width: 152px;
+    height: 215px;
+    border: 2px solid #ffc800;
+    border-radius: 2px;
+    background-color: #ffffff;
+    margin-right: 5px;
+    float: left;
+}
+
+#planImage{
+    width: 43px;
+    height: 43px;
+    position: relative;
+    top: 20px;
+    left:54px;
+}
+
+#planHead{
+    font-family: Roboto;
+    font-size: 12px;
+    color: #ffc800;
+    font-weight: 700;
+    text-decoration: none solid rgb(255, 200, 0);
+    line-height: 16px;
+    text-align: center; 
+    position: relative;
+    top:40px;
+  
+}
+
+#planTitle{
+    width: 107px;
+    height: 32px;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #1c1c1c;
+    font-weight: 700;
+    text-decoration: none solid rgb(28, 28, 28);
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    top:50px;
+    left:25px;
+}
+
+#planDeet{
+    width: 130px;
+    height: 45px;
+    font-family: Roboto;
+    font-size: 12px;
+    color: #a3a3a3;
+    font-weight: 500;
+    text-decoration: none solid rgb(163, 163, 163);
+    line-height: 15px;
+    text-align: center;
+    position: relative;
+    top:65px;
+    left:12px;
+}
+
+#Summary{
+    width: 20%;
+    height: 538px;
+    position: relative;
+    top:57px;
+}
+
+#summaryTable{
+    position: absolute;
+    top:61px;
+}
+
+.summaryText{
+    width: 210px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #5e5e5e;
+    text-decoration: none solid rgb(94, 94, 94);
+    position: relative;
+    left: 19px;
+    margin-bottom: 16px;
+}
+
+#yes{
+    font-size: 14px;
+    color: #a3a3a3;
+    text-decoration: none solid rgb(163, 163, 163);
+    line-height: 18px;
+}
+
+#bottom{
+    position: absolute;
+    top:487px;
+}
+
+#total{
+    width: 100%;
+    position: absolute;
+    top:507px;
+    left:19px;
+    float: left;
+}
+
+#totalAmount{
+    font-family: Roboto;
+    font-size: 14px;
+    color: #a3a3a3;
+    text-decoration: none solid rgb(163, 163, 163);
+    line-height: 18px;
+    position: absolute;
+    right:27px;
+}
+
+#totalText{
+    font-family: Roboto;
+    font-size: 14px;
+    color: #5e5e5e;
+    text-decoration: none solid rgb(94, 94, 94);
+    line-height: 18px;
+    float: left;
+}

@@ -1,0 +1,235 @@
+.Header-box {
+    width: auto;
+    height: 54px;
+    background-color: #212124;
+}
+
+.logo {
+    width: 115px;
+    height: 33px;
+    position: absolute;
+    left:70px;
+    top:9px;
+    bottom: 11px;
+}
+
+.Search-box{
+    width: 282px;
+    height: 32px;
+    border: 1px none #c8c8c8;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    top:11px;
+    bottom:11px;
+    left:205px;
+}
+
+#Search-text{
+    width: 197px;
+    height: 16px;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #c8c8c8;
+    text-decoration: none solid rgb(200, 200, 200);
+    position: relative;
+    top:9px;
+    left:12px;
+}
+
+#Search-button{
+    width: 35px;
+    height: 32px;
+    border-radius: 2px;
+    background-color: #ebebeb;
+    position: absolute;
+    right: 0px;
+    top:0px;
+}
+
+.Search-logo{
+    width: 16px;
+    height: 17px;
+    opacity: 0.8;
+    position: absolute;
+    top:7px;
+    left:10px;
+
+}
+
+#bar{
+    position: absolute;
+    right:132px;
+}
+
+.bar-image{
+    width: 29px;
+    height: 29px;
+    opacity: 0.8;
+    margin-left: 17px;
+    margin-right: 17px;
+}
+
+.bar-button{
+    margin-top: 8px;
+    height:54px;
+    width:63px;
+    float: left;
+}
+
+.bar-text{
+    width: auto;
+    height: 11px;
+    opacity: 0.8;
+    font-family: Roboto;
+    font-size: 10px;
+    color: #ffffff;
+    font-weight: 500;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+#vertical-line{
+    width: 33px;
+    height: 11px;
+    opacity: 0.5;
+    margin-top: 20px;
+    fill: #8a8a8a;
+    transform: rotate(90deg);
+}
+
+#profile{
+    position: absolute;
+    right:60px;
+    position: absolute;
+    top:9px;
+}
+
+#profilepic{
+    width: 26px;
+    height: 26px;
+}
+
+#circleborder{
+    width: 28px;
+    height: 28px;
+    border: 2px solid #ffffff;
+    border-color: #ffffff;
+    border-radius: 50%; 
+}
+
+#profile-text{
+    width: auto;
+    height: 11px;
+    font-family: Roboto;
+    font-size: 10px;
+    color: #ffffff;
+    margin-top: 2px;
+    text-decoration: none solid rgb(255, 255, 255);
+}
+#arrow{
+    width: 17px;
+    height: 17px;
+    fill: #ffffff;
+    position: absolute;
+    top:30px;
+    right:1px;
+    
+}
+
+
+.Footer-box{
+    width: 100%;
+    height: 90px;
+    background-color: #222222;
+    position: absolute;
+    bottom: 0px;
+}
+
+#sitemap{
+    position: absolute;
+    left: 60px;
+}
+
+.site-button{
+    margin-top:18px;
+    padding-left:10px;
+    padding-right:10px;
+    border-right: #ebebeb 1px solid;
+    font-family: Arial;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none solid rgb(255, 255, 255);
+    float: left;
+}
+
+#last{
+    border-right:0px;
+}
+
+#footer-line{
+    width: 95%;
+    border-color: #ffc800;
+    margin-right:2.5%;
+    margin-left:2.5%;
+    position: absolute;
+    top:39px;
+}
+
+.logo-foot{
+    width: 63px;
+    height: 18px;
+    position: absolute;
+    left:70px;
+    top:54px;
+}
+
+#copyright{
+    position: absolute;
+    top: 60px;
+    left: 140px;
+    font-family: Arial;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none solid rgb(255, 255, 255);
+}
+
+#Misc{
+    position: absolute;
+    left:208px;
+    top: 60px;
+}
+
+.misc-button{
+    font-family: Arial;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none solid rgb(255, 255, 255);
+    margin-right:10px;
+    float: left;
+}
+
+#language{
+    position: absolute;
+    right:132px;
+    top:55px;
+    width: 25px;
+    height: 25px;
+}
+
+#language-text{
+    position: absolute;
+    top:61px;
+    right:66px;
+    font-family: Arial;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-align: center;
+}
